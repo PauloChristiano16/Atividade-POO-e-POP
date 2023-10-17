@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		EC299B182ADF34BB00AAA5BD /* Atividade-POP.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Atividade-POP.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		EC299B112ADF34AF00AAA5BD = {
+			isa = PBXGroup;
+			children = (
+				EC299B182ADF34BB00AAA5BD /* Atividade-POP.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		EC299B122ADF34AF00AAA5BD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = EC299B152ADF34AF00AAA5BD /* Build configuration list for PBXProject "Atividade-POP" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EC299B112ADF34AF00AAA5BD;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		EC299B162ADF34AF00AAA5BD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		EC299B172ADF34AF00AAA5BD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC299B152ADF34AF00AAA5BD /* Build configuration list for PBXProject "Atividade-POP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC299B162ADF34AF00AAA5BD /* Debug */,
+				EC299B172ADF34AF00AAA5BD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EC299B122ADF34AF00AAA5BD /* Project object */;
+}
